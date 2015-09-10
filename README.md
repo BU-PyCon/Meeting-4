@@ -1,2 +1,5 @@
 # Meeting-4
-Intro to OOP topics.
+- Introduction to Object Oriented Programming Topics
+  - Classes and Objects
+  - Accessing Information
+  - Inheritance
